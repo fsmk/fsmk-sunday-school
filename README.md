@@ -1,4 +1,11 @@
-fsmk-sunday-school
+FSMK Sunday School
 ==================
 
-Presentations and other mateiral related to the sunday school sessions held at FSMK office, every Sunday.
+Sunday School is the weekly event held at FSMK's Wilson Garden office every Sunday afternoon. 
+
+This repository will provide all the presentations and other material shared before, during and after the sunday school.
+Please feel free to send in pull requests with relevant material.
+
+TODO:
+1. A directory structure.
+2. Naming conventions.

@@ -8,5 +8,5 @@ Please feel free to send in pull requests with relevant material.
 
 Directory structure is in this format:
 
-<year> / <month> / <Name of session> / <data>
+\<year> / \<month> / \<Name of session> / \<data>
 
